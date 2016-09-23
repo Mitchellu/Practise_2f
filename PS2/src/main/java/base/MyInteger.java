@@ -20,7 +20,7 @@ public class MyInteger {
 			return false ;
 	}
 	public boolean isPrime(){
-		//divided the value by 2, if it is neither even or odd, it is prime
+		//divided the value  by 2, if it is neither even or odd, it is prime
 		if(iValue % 2 == 0 || iValue % 2 == 1)
 			return false;			
 		else

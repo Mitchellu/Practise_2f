@@ -77,7 +77,7 @@ public class MyInteger {
 			return true;
 		else
 			return false;	
-}
+	}
 	public boolean equals(MyInteger NNNNewiValue){
 		return NNNNewiValue.equals(iValue);
 		
